@@ -6,7 +6,7 @@ This is a simple CRUD application that uses Docker containers to run the backend
 
 To start the services, just run the following command on the terminal, from the node-mongo-compose folder:
 
-<b>docker compose-up</b>
+<b>docker-compose up</b>
 
 For this, it is necessary to have the Docker installed.
 
